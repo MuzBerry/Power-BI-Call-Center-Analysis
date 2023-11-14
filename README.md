@@ -23,10 +23,3 @@ This repository contains Power BI reports and analyses for call center data. The
 2. Open the file(s) using Power BI Desktop.
 3. Explore the visualizations, filters, and insights to gain a comprehensive understanding of the call center data.
 
-## Contributing
-
-If you have improvements or additional analyses to contribute, please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
